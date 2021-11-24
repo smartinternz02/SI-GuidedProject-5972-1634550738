@@ -1,0 +1,7 @@
+---
+applications
+
+-name:Python Flask App TC
+ random-route:True
+ memory:512M
+ disk_quota:1.5G
